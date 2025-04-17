@@ -1,4 +1,4 @@
-# Database Searcher
+# GoTXT - TxT Logs Validator
 
 ![Go](https://img.shields.io/badge/Go-1.18+-00ADD8.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
